@@ -1,0 +1,18 @@
+{
+  "name": "nock-record-chunked-encoding",
+  "version": "1.0.0",
+  "license": "MIT",
+  "engines": {
+    "node": "10.5.0",
+    "yarn:": "1.7.0"
+  },
+  "scripts": {
+    "start": "rm -rf ./fixtures && node index.test.js"
+  },
+  "dependencies": {
+    "compression": "^1.7.3",
+    "express": "^4.16.3",
+    "nock": "^9.6.1",
+    "node-fetch": "^2.2.0"
+  }
+}

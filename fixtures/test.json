@@ -1,0 +1,31 @@
+[
+    {
+        "scope": "http://localhost:6061",
+        "method": "GET",
+        "path": "/",
+        "body": "",
+        "status": 200,
+        "response": [
+            "1f8b0800000000000013",
+            "ab56ca4ead3450b2522a4bcc294d55d201710d51b946a85c6354ae092ad714956b86ca3547e55aa0722de1dc5a00935a983c97000000"
+        ],
+        "rawHeaders": [
+            "X-Powered-By",
+            "Express",
+            "Content-Type",
+            "application/json; charset=utf-8",
+            "ETag",
+            "W/\"97-+8MNW7xXoMAtnEi7RHXSmbHkWnc\"",
+            "Vary",
+            "Accept-Encoding",
+            "Content-Encoding",
+            "gzip",
+            "Date",
+            "Sun, 09 Sep 2018 10:40:29 GMT",
+            "Connection",
+            "close",
+            "Transfer-Encoding",
+            "chunked"
+        ]
+    }
+]
